@@ -1,7 +1,7 @@
 # Questions 02
 * Hey - Present
-* Tha - Past Tense
-* Hoga - Future Tense
+* Tha/Thee - Past Tense
+* Hoga/Hoge - Future Tense
 * Ither - Here
 * Uther - There
 * Kither hey - Where are you?

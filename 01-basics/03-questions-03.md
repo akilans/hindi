@@ -16,6 +16,6 @@
 * Pooja, Wo laptop ka password kya hey?
 * Uska password 1234 hey
 * Laptop looks good, Kya tham key?
-* Aapke kom ka naam kya hey?
-* Mere kom ka naam Tenkasi hey
+* Aapke kaw ka naam kya hey?
+* Mere kaw ka naam Tenkasi hey
 * 
