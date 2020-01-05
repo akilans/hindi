@@ -40,3 +40,4 @@
 * Ja na tha - poyirukkanum
 * chal na tha - poyirukkanum
 * Kaa na tha - Sapidrukkanum
+* Na = Neyka
