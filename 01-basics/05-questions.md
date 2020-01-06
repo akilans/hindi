@@ -41,3 +41,15 @@
 * chal na tha - poyirukkanum
 * Kaa na tha - Sapidrukkanum
 * Na = Neyka
+
+# Examples
+* Aa raha hey, kya? - Varukirana?
+* Aa ya hey, Kya? - Vanthana?
+* Aa ya hoga, kya? - Varuvana?
+
+# Examples:
+* Aa k - vanthu
+* Ja k - Poyi
+* Pee k - kudithu
+* Kar k - sappitu
+* Utta k - thooki
